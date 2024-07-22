@@ -1,4 +1,4 @@
-# Leaf Now
+# Vaatavaran
 The project is a exemplar of a fundraising and ecommerce website. 
 The main page contains overview of significant tree plantation detail,then there are various option that connects you with different HTML pages.
 
