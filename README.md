@@ -8,8 +8,6 @@ There is detailed information about the project:
 - A donate Section where one can donate through payment gateway interface and download the Invoice of donated money in pdf format.
 - A Login/Signup Section that allows one to register to website and login at any time possible,It has been connected to a simple PHP document which connects user data to SQL servers where the user data is stored securely.
 
-
-
 This project is based on Web Development And its Applications. The main objective of this project is to learn the implementation of 
  HTML | CSS | JavaScript | PHP  
 
@@ -17,8 +15,14 @@ The basic Webpage of this project is created using HTML and styling of the webpa
 
 On Back-end part PHP with Xampp Hosting was implemented for storing user data into phpMyAdmin server with help of MySQL.
 
-*htdocs folder contains account.html,account.css and account.js that are meant to be pulled and used via phpMyAdmin,Xampp host.*
-
-* Deployement<br>
 Netlify - <br>
 Github pages - <a href="https://aman-yadav-1.github.io/Leaf-Now-Project/">Click Here</a><br>
+Github pages - <a href="https://aman-yadav-1.github.io/Leaf-Now-Project/">Click Here</a><br>
+
+<b>SnapShots :<br><br>
+<img src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Home%20Page.png" width="1000" height="550">
+<img src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Projects.png" width="1000" height="550">
+<img src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/LeafConnect%20Page.png" width="1000" height="550">
+<img src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Plants.png" width="1000" height="550">
+<img src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Signin%20Page.png" width="1000" height="550">
+<img src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Signup%20Page.png" width="1000" height="550">
