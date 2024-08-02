@@ -16,8 +16,7 @@ The basic Webpage of this project is created using HTML and styling of the webpa
 On Back-end part PHP with Xampp Hosting was implemented for storing user data into phpMyAdmin server with help of MySQL.
 
 Netlify - <br>
-Github pages - <a href="https://aman-yadav-1.github.io/Leaf-Now-Project/">Click Here</a><br>
-Github pages - <a href="https://aman-yadav-1.github.io/Leaf-Now-Project/">Click Here</a><br>
+Github pages - <a href="https://ramnathnayak07.github.io/Vaatavaran/">Click Here</a><br>
 
 <b>SnapShots :<br><br>
 <img src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Home%20Page.png" width="1000" height="550">
