@@ -19,9 +19,9 @@ Netlify - <br>
 Github pages - <a href="https://ramnathnayak07.github.io/Vaatavaran/">Click Here</a><br>
 
 <b>SnapShots :<br><br>
-<img src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Home%20Page.png" width="1000" height="550">
-<img src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Projects.png" width="1000" height="550">
-<img src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/LeafConnect%20Page.png" width="1000" height="550">
-<img src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Plants.png" width="1000" height="550">
-<img src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Signin%20Page.png" width="1000" height="550">
-<img src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Signup%20Page.png" width="1000" height="550">
+<img width="900" src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Home%20Page.png">
+<img width="900" src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Projects.png">
+<img width="900" src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/LeafConnect%20Page.png">
+<img width="900" src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Plants.png">
+<img width="900" src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Signin%20Page.png">
+<img width="900" src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Signup%20Page.png">
