@@ -13,8 +13,7 @@ This project is based on Web Development And its Applications. The main objectiv
 
 The basic Webpage of this project is created using HTML and styling of the webpage is done using CSS with minor functionalities required fulfilled through JavaScript.
 
-Netlify - <br>
-Github pages - <a href="https://ramnathnayak07.github.io/Vaatavaran/">Click Here</a><br>
+<a href="https://ramnathnayak07.github.io/Vaatavaran/">Click Here</a><br>
 
 <b>SnapShots :<br><br>
 <img width="900" src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Home%20Page.png">
