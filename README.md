@@ -11,7 +11,7 @@ There is detailed information about the project:
 This project is based on Web Development And its Applications. The main objective of this project is to learn the implementation of 
  HTML | CSS | JavaScript | PHP
 
-The basic Webpage of this project is created using HTML and styling of the webpage is done using CSS with minor functionalities required fulfilled through JavaScript.
+The Basic Webpage of this project is created using HTML and styling of the webpage is done using CSS with minor functionalities required fulfilled through JavaScript.
 
 <a href="https://ramnathnayak07.github.io/Vaatavaran/">Click Here</a><br>
 
