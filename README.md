@@ -13,7 +13,7 @@ This project is based on Web Development And its Applications. The main objectiv
 
 The Basic Webpage of this project is created using HTML and styling of the webpage is done using CSS with minor functionalities required fulfilled through JavaScript.
 
-<a href="https://ramnathnayak07.github.io/Vaatavaran/">Click here</a><br>
+<a href="https://ramnathnayak07.github.io/Vaatavaran/">Click here to view the website</a><br>
 
 <b>Snapshots:<br><br>
 
