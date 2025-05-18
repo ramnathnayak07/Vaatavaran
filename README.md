@@ -16,6 +16,7 @@ The Basic Webpage of this project is created using HTML and styling of the webpa
 <a href="https://ramnathnayak07.github.io/Vaatavaran/">Click here</a><br>
 
 <b>Snapshots:<br><br>
+
 <img width="900" src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Home%20Page.png">
 <img width="900" src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/Projects.png">
 <img width="900" src="https://github.com/ramnathnayak07/Vaatavaran/blob/main/snapshots/LeafConnect%20Page.png">
